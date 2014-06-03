@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\John\Meteo2\.metadata\.plugins\org.eclipse.jdt.core
+2782466762.index
+4033532225.index
+1987971594.index
